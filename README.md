@@ -6,6 +6,4 @@ Members
 1. Maksim Napolskikh
 2. George (Jimmy) Sabo
 3. Joseph Sabo
-# CPRG303-B-Group5
-# CPRG303-B-Group5
-# CPRG303-B-Group5
+
