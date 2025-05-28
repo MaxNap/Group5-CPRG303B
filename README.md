@@ -7,3 +7,5 @@ Members
 2. George (Jimmy) Sabo
 3. Joseph Sabo
 
+must run "npm install" in correct file path in terminal to 
+install dependencies and run expo go!!!!
