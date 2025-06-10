@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { Button, Pressable, StyleSheet, Text, View } from 'react-native';
 import ButtonTemplate from '../components/button_template';
 
 export default function App() {
@@ -7,6 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Welcome to Group 5 Labs</Text>
       <ButtonTemplate link={"/(Lab2)"} text={"Lab 2"} color="green" />
+      <ButtonTemplate link={"/(Lab3)"} text={"Lab 3"} color="blue" />
     </View>
   );
 }
