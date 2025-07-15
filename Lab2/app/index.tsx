@@ -9,6 +9,7 @@ export default function App() {
       <ButtonTemplate link={"/(Lab2)"} text={"Lab 2"} color="green" />
       <ButtonTemplate link={"/(Lab3)"} text={"Lab 3"} color="blue" />
       <ButtonTemplate link={"/(Lab4)"} text={"Lab 4"} color="red" />
+      <ButtonTemplate link={"/(Lab5)"} text={"Lab 5"} color="brown" />
     </View>
   );
 }
